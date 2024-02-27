@@ -1,4 +1,4 @@
-﻿**Web Scraping Application** 
+#﻿**Web Scraping Application** 
 
 This project is a web scraping application developed in Python for extracting data from LinkedIn, Instagram, and a news website. This application utilizes libraries such as Instaloader, Selenium, and BeautifulSoup.
 
